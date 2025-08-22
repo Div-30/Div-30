@@ -1,4 +1,4 @@
-# 💫 Divin Paul Hirwa:
+# 💫 About Me
 🌟 I'm a dedicated Software Developer with a passion for creating intuitive and efficient applications. <br>🚀 I thrive on collaborating with teams to tackle complex challenges and deliver impactful solutions. <br>🔍 Currently, I'm exploring new frameworks and tools to enhance my ability to build innovative, user-focused projects.
 
 
