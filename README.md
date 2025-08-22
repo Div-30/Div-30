@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi, I'm a passionate Software Developer with a knack for building dynamic, user-friendly applications and a love for turning ideas into reality through code. My expertise spans a versatile tech stack, including TypeScript, React, JavaScript, Java, HTML, CSS, and TailwindCSS, enabling me to craft seamless front-end experiences and robust back-end solutions.<br>Currently, I'm diving deeper into Next.js to master modern full-stack development and exploring Spring Boot to enhance my skills in building scalable, enterprise-grade APIs. I thrive on continuous learning, tackling challenges, and staying up-to-date with the latest industry trends.<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.i.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divin Paul HIRWA  ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DivinP23) 
